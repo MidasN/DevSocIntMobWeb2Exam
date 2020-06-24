@@ -1,0 +1,583 @@
+[
+    {
+        "clearances": [
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 4.95,
+                    "ean": "5712580973852",
+                    "endTime": "2020-06-23T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T07:16:00.000Z",
+                    "newPrice": 4,
+                    "originalPrice": 8.95,
+                    "percentDiscount": 55.31,
+                    "startTime": "2020-06-22T06:10:17.000Z",
+                    "stock": 5,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "FULDKORNSTOAST VORES",
+                    "ean": "5712872135159",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 14.95,
+                    "ean": "5712580975146",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T07:46:03.000Z",
+                    "newPrice": 5,
+                    "originalPrice": 19.95,
+                    "percentDiscount": 74.94,
+                    "startTime": "2020-06-23T06:41:40.000Z",
+                    "stock": 5,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "RUGBR.BOLLER KOHBERG",
+                    "ean": "5701246106727",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 20.95,
+                    "ean": "5712580975160",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T07:46:03.000Z",
+                    "newPrice": 5,
+                    "originalPrice": 25.95,
+                    "percentDiscount": 80.73,
+                    "startTime": "2020-06-23T06:42:50.000Z",
+                    "stock": 4,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "LANTGODA PÅGEN",
+                    "ean": "5710405068196",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 15.95,
+                    "ean": "5712580975238",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T08:00:57.000Z",
+                    "newPrice": 7,
+                    "originalPrice": 22.95,
+                    "percentDiscount": 69.5,
+                    "startTime": "2020-06-23T06:45:15.000Z",
+                    "stock": 5,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "SOLSIKKERUGBRØD DET GODE",
+                    "ean": "5712871105641",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 10.95,
+                    "ean": "5712580975085",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T08:15:58.000Z",
+                    "newPrice": 5,
+                    "originalPrice": 15.95,
+                    "percentDiscount": 68.65,
+                    "startTime": "2020-06-23T06:38:44.000Z",
+                    "stock": 6,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "KERNEBOLLER VORES",
+                    "ean": "5712873023998",
+                    "image": null
+                }
+            }
+        ],
+        "store": {
+            "address": {
+                "city": "Århus C",
+                "country": "DK",
+                "extra": null,
+                "street": "Frederiksalle 22-24",
+                "zip": "8000"
+            },
+            "brand": "foetex",
+            "coordinates": [
+                10.199392,
+                56.151
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "open": "2020-06-23T07:00:00",
+                    "close": "2020-06-23T22:00:00",
+                    "closed": false
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "open": "2020-06-24T07:00:00",
+                    "close": "2020-06-24T22:00:00",
+                    "closed": false
+                }
+            ],
+            "name": "føtex Frederiks Alle",
+            "id": "ccbf3d54-fac4-4a9c-b0fa-2072247b6a6c",
+            "type": "Point"
+        }
+    },
+    {
+        "clearances": [],
+        "store": {
+            "address": {
+                "city": "Århus C",
+                "country": "DK",
+                "extra": null,
+                "street": "Jægergårdsgade 64-70",
+                "zip": "8000"
+            },
+            "brand": "netto",
+            "coordinates": [
+                10.200813,
+                56.148021
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "closed": true,
+                    "open": null,
+                    "close": null
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "closed": true,
+                    "open": null,
+                    "close": null
+                }
+            ],
+            "name": "Netto Jægergårdsgade",
+            "id": "da2957d5-67ec-4f24-9c49-235b6712e063",
+            "type": "Point"
+        }
+    },
+    {
+        "clearances": [
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 6.95,
+                    "ean": "20022860",
+                    "endTime": "2020-06-23T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T14:17:48.000Z",
+                    "newPrice": 6,
+                    "originalPrice": 12.95,
+                    "percentDiscount": 53.67,
+                    "startTime": "2020-06-22T14:17:32.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "GAMLE MØLLE FULDK.KR 550 G",
+                    "ean": "5712872149439",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 2,
+                    "ean": "20022006",
+                    "endTime": "2020-06-23T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T15:38:55.000Z",
+                    "newPrice": 4.5,
+                    "originalPrice": 6.5,
+                    "percentDiscount": 30.77,
+                    "startTime": "2020-06-22T09:44:37.000Z",
+                    "stock": 3,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "EGELYKKE KAFFEFLØDE 250 ML",
+                    "ean": "5701012960058",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 9.95,
+                    "ean": "20021924",
+                    "endTime": "2020-06-25T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T17:38:57.000Z",
+                    "newPrice": 8,
+                    "originalPrice": 17.95,
+                    "percentDiscount": 55.43,
+                    "startTime": "2020-06-22T07:33:39.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "K-SALAT LAKS M. WASA 140 G",
+                    "ean": "5704000481955",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 7.95,
+                    "ean": "20021795",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T18:09:00.000Z",
+                    "newPrice": 9,
+                    "originalPrice": 16.95,
+                    "percentDiscount": 46.9,
+                    "startTime": "2020-06-22T07:07:00.000Z",
+                    "stock": 3,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "BLUE DREAM BLÅ/HVID 200 G",
+                    "ean": "5740200001364",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 6.95,
+                    "ean": "20021825",
+                    "endTime": "2020-06-25T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T19:24:01.000Z",
+                    "newPrice": 15,
+                    "originalPrice": 21.95,
+                    "percentDiscount": 31.66,
+                    "startTime": "2020-06-22T07:08:37.000Z",
+                    "stock": 2,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "EGELYKKE ESTHER M/KO 300 G",
+                    "ean": "5711953100154",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 9.95,
+                    "ean": "20022839",
+                    "endTime": "2020-06-23T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T20:24:02.000Z",
+                    "newPrice": 10,
+                    "originalPrice": 19.95,
+                    "percentDiscount": 49.87,
+                    "startTime": "2020-06-22T14:16:22.000Z",
+                    "stock": 2,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "MULTIKERNE BOLLER 550 G",
+                    "ean": "5701205005559",
+                    "image": null
+                }
+            }
+        ],
+        "store": {
+            "address": {
+                "city": "Århus C",
+                "country": "DK",
+                "extra": null,
+                "street": "Finderupvej 1-3",
+                "zip": "8000"
+            },
+            "brand": "netto",
+            "coordinates": [
+                10.18228,
+                56.155654
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "open": "2020-06-23T07:00:00",
+                    "close": "2020-06-23T23:00:00",
+                    "closed": false
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "open": "2020-06-24T07:00:00",
+                    "close": "2020-06-24T23:00:00",
+                    "closed": false
+                }
+            ],
+            "name": "Netto Finderupvej",
+            "id": "5a5a3b85-1c8c-433e-a56c-23f6326306f7",
+            "type": "Point"
+        }
+    },
+    {
+        "clearances": [
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 6,
+                    "ean": "20001414",
+                    "endTime": "2020-06-25T22:00:00.000Z",
+                    "lastUpdate": "2020-06-22T14:18:31.000Z",
+                    "newPrice": 9,
+                    "originalPrice": 15,
+                    "percentDiscount": 40,
+                    "startTime": "2020-06-18T09:43:24.000Z",
+                    "stock": 13,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "ØKO VANILJE CR. FRAI 350 G - LØGISMOSE",
+                    "ean": "5713507024787",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 7.95,
+                    "ean": "20001582",
+                    "endTime": "2020-06-28T22:00:00.000Z",
+                    "lastUpdate": "2020-06-22T18:18:38.000Z",
+                    "newPrice": 8,
+                    "originalPrice": 15.95,
+                    "percentDiscount": 49.84,
+                    "startTime": "2020-06-22T08:39:03.000Z",
+                    "stock": 86,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "CHEASY SKYR NATUREL 500 G",
+                    "ean": "5711953118418",
+                    "image": null
+                }
+            }
+        ],
+        "store": {
+            "address": {
+                "city": "Århus C",
+                "country": "DK",
+                "extra": null,
+                "street": "Thorvaldsensgade 22-24",
+                "zip": "8000"
+            },
+            "brand": "netto",
+            "coordinates": [
+                10.196554,
+                56.156526
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "open": "2020-06-23T07:00:00",
+                    "close": "2020-06-23T23:00:00",
+                    "closed": false
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "open": "2020-06-24T07:00:00",
+                    "close": "2020-06-24T23:00:00",
+                    "closed": false
+                }
+            ],
+            "name": "Netto Thorvaldsgd Århus",
+            "id": "491261bc-671a-427a-a5f8-32007f527f7b",
+            "type": "Point"
+        }
+    },
+    {
+        "clearances": [
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 11.95,
+                    "ean": "5712580960814",
+                    "endTime": "2020-06-26T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T08:58:30.000Z",
+                    "newPrice": 8,
+                    "originalPrice": 19.95,
+                    "percentDiscount": 59.9,
+                    "startTime": "2020-06-22T08:56:50.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "MULTIKER.BOLLER LEVEBRØD",
+                    "ean": "5701205005559",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 6.95,
+                    "ean": "5712580961187",
+                    "endTime": "2020-08-14T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T03:38:23.000Z",
+                    "newPrice": 16,
+                    "originalPrice": 22.95,
+                    "percentDiscount": 30.28,
+                    "startTime": "2020-06-23T03:37:59.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "BRIOCHE HOTDOG PRINCIP",
+                    "ean": "5712872639640",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 12.95,
+                    "ean": "5712580961415",
+                    "endTime": "2020-06-24T21:59:59.000Z",
+                    "lastUpdate": "2020-06-23T07:07:36.000Z",
+                    "newPrice": 8,
+                    "originalPrice": 20.95,
+                    "percentDiscount": 61.81,
+                    "startTime": "2020-06-23T07:07:03.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "SKAGENSBRØD SCHULSTAD",
+                    "ean": "5701205005467",
+                    "image": null
+                }
+            }
+        ],
+        "store": {
+            "address": {
+                "city": "Århus C",
+                "country": "DK",
+                "extra": null,
+                "street": "M. P. Bruunsgade 55",
+                "zip": "8000"
+            },
+            "brand": "foetex",
+            "coordinates": [
+                10.203868,
+                56.146904
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "open": "2020-06-23T07:00:00",
+                    "close": "2020-06-23T22:00:00",
+                    "closed": false
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "open": "2020-06-24T07:00:00",
+                    "close": "2020-06-24T22:00:00",
+                    "closed": false
+                }
+            ],
+            "name": "føtex Food M. P. Bruunsgade",
+            "id": "cae14931-51f7-462d-81dd-7b78c1621507",
+            "type": "Point"
+        }
+    },
+    {
+        "clearances": [
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 7.5,
+                    "ean": "5712580145716",
+                    "endTime": "2020-06-23T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T05:08:46.000Z",
+                    "newPrice": 7.5,
+                    "originalPrice": 15,
+                    "percentDiscount": 50,
+                    "startTime": "2020-06-22T05:08:25.000Z",
+                    "stock": 1,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "MANGO/INGEFÆR PRINCIP",
+                    "ean": "5712873316809",
+                    "image": null
+                }
+            },
+            {
+                "offer": {
+                    "currency": "DKK",
+                    "discount": 7.97,
+                    "ean": "5712580141749",
+                    "endTime": "2020-06-30T21:59:59.000Z",
+                    "lastUpdate": "2020-06-22T09:28:29.000Z",
+                    "newPrice": 7.98,
+                    "originalPrice": 15.95,
+                    "percentDiscount": 50,
+                    "startTime": "2020-06-18T09:54:47.000Z",
+                    "stock": 8,
+                    "stockUnit": "each"
+                },
+                "product": {
+                    "description": "MAYONNAISE SDJ. FRISTEL",
+                    "ean": "5704000476272",
+                    "image": null
+                }
+            }
+        ],
+        "store": {
+            "address": {
+                "city": "Aarhus C",
+                "country": "DK",
+                "extra": null,
+                "street": "Ceres Allé 20",
+                "zip": "8000"
+            },
+            "brand": "foetex",
+            "coordinates": [
+                10.1882,
+                56.1552
+            ],
+            "hours": [
+                {
+                    "date": "2020-06-23",
+                    "type": "store",
+                    "open": "2020-06-23T07:00:00",
+                    "close": "2020-06-23T22:00:00",
+                    "closed": false
+                },
+                {
+                    "date": "2020-06-24",
+                    "type": "store",
+                    "open": "2020-06-24T07:00:00",
+                    "close": "2020-06-24T22:00:00",
+                    "closed": false
+                }
+            ],
+            "name": "føtex Food Ceres Byen",
+            "id": "18a97dbd-c483-4a76-b1d7-2881ccc4d884",
+            "type": "Point"
+        }
+    }
+]
